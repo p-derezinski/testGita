@@ -1,0 +1,2 @@
+# testGita
+Wprowadzenie do gitHub
